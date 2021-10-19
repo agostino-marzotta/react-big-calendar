@@ -128,6 +128,8 @@ SASS implementation provides a `variables` file containing color and sizing vari
 update to fit your application. _Note:_ Changing and/or overriding styles can cause rendering issues with your
 Big Calendar. Carefully test each change accordingly.
 
+Sass has some deprecated functions, beware the build tools
+
 ## Join us on Reactiflux Discord
 
 Join us on [Reactiflux Discord](https://discord.gg/reactiflux) community under the channel #libraries if you have any questions.
